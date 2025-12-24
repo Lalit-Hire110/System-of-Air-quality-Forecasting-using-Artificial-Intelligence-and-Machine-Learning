@@ -1,0 +1,41 @@
+{
+  "model_cards": {
+    "NO2": {
+      "validation_metrics": {
+        "mae": 2.6809016458403296,
+        "rmse": 7.328304931285446,
+        "r2": 0.9161727197843037,
+        "n_val": 12027
+      },
+      "holdout_metrics": {
+        "mae": 4.423614029509034,
+        "rmse": 9.559331465670653,
+        "r2": 0.8498541334555839,
+        "n_holdout": 3458
+      },
+      "n_features": 20
+    },
+    "O3": {
+      "validation_metrics": {
+        "mae": 11.020878413939355,
+        "rmse": 18.618948258767286,
+        "r2": 0.5657508148420578,
+        "n_val": 11738
+      },
+      "holdout_metrics": {
+        "mae": 7.932286723618907,
+        "rmse": 12.014024787974902,
+        "r2": 0.6924463643510497,
+        "n_holdout": 3203
+      },
+      "n_features": 20
+    }
+  },
+  "evaluation_protocol": {
+    "train_samples": 80265,
+    "holdout_samples": 3458,
+    "holdout_period": "Final 30 days per station",
+    "cv_method": "Time-ordered blocks with purge",
+    "target_policy": "CPCB targets only (SIH train_* excluded)"
+  }
+}

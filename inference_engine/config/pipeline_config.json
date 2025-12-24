@@ -1,0 +1,27 @@
+{
+  "steps_executed": [
+    "Step 1: Dataset profiling and target identification",
+    "Step 2: Missing value analysis and correlation/VIF pruning",
+    "Step 3: Supervised feature ranking with mutual information",
+    "Step 4: Time-aware CV and leakage auditing",
+    "Step 5: Final model training with SHAP interpretation",
+    "Step 6: Holdout evaluation and quantile prediction",
+    "Step 7: Packaging and export"
+  ],
+  "key_parameters": {
+    "missing_drop_threshold": 70.0,
+    "correlation_threshold": 0.95,
+    "vif_threshold": 15.0,
+    "holdout_days": 30,
+    "cv_purge_hours": 6,
+    "early_stopping_rounds": 150
+  },
+  "data_sources": [
+    "CPCB ground measurements",
+    "ERA5 reanalysis",
+    "MERRA-2 atmospheric data",
+    "Satellite observations",
+    "Traffic/emission proxies"
+  ],
+  "timestamp": "2025-10-08T18:05:16.374219"
+}
