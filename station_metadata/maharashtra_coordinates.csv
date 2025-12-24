@@ -1,0 +1,6 @@
+file_name,station_location,latitude,longitude,west_lon,east_lon,south_lat,north_lat
+MA001,"Chauhan Colony, Chandrapur",19.9595,79.2963,79.2863,79.3063,19.9495,19.9695
+MA002,"MIDC Khutala, Chandrapur",19.9765,79.3004,79.2904,79.3104,19.9665,19.9865
+MA003,"Khadakpada, Kalyan",19.2432,73.1337,73.1237,73.1437,19.2332,19.2532
+MA004,"Bandra Kurla Complex, Mumbai",19.0666,72.8681,72.8581,72.8781,19.0566,19.0766
+MA005,"Deonar, Mumbai",19.0455,72.9188,72.9088,72.9288,19.0355,19.0555

@@ -1,0 +1,6 @@
+file_name,station_location,latitude,longitude,west_lon,east_lon,south_lat,north_lat
+DE001,"Pusa, Delhi",28.6374,77.1577,77.1477,77.1677,28.6274,28.6474
+DE002,"Aya Nagar, Delhi",28.4595,77.1455,77.1355,77.1555,28.4495,28.4695
+DE003,"Narela, Delhi",28.8526,77.0922,77.0822,77.1022,28.8426,28.8626
+DE004,"Rohini, Delhi",28.7437,77.0676,77.0576,77.0776,28.7337,28.7537
+DE005,"Major Dhyan Chand National Stadium, Delhi",28.6118,77.2371,77.2271,77.2471,28.6018,28.6218

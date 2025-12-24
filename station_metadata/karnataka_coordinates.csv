@@ -1,0 +1,6 @@
+file_name,station_location,latitude,longitude,west_lon,east_lon,south_lat,north_lat
+KA001,"BTM Layout, Bengaluru",12.9166,77.6101,77.6001,77.6201,12.9066,12.9266
+KA002,"BWSSB Kadabesanahalli, Bengaluru",12.9279,77.6832,77.6732,77.6932,12.9179,12.9379
+KA003,"Silk Board, Bengaluru",12.9172,77.6235,77.6135,77.6335,12.9072,12.9272
+KA004,"Hebbal 1st Stage, Mysuru",12.3416,76.6149,76.6049,76.6249,12.3316,12.3516
+KA005,"Collector Office, Yadgir",16.7708,77.1386,77.1286,77.1486,16.7608,16.7808
